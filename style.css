@@ -15,7 +15,7 @@ form{
     border-radius: 8px;
     border: 1px solid gray;
 }
-#tablebtn{
+.tablebtn{
     height: 2em;
     width: 10em;
 }
