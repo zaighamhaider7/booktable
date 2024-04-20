@@ -18,6 +18,9 @@ form{
 .tablebtn{
     height: 2em;
     width: 10em;
+    background-color: yellow;
+    color: black;
+    border-radius: 8px ;
 }
 @media(max-width:1100px){
     .input{
